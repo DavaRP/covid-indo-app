@@ -1,4 +1,4 @@
-# covidapi
+# Covid indo app 
 
 ## Project setup
 ```
