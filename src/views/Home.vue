@@ -7,7 +7,6 @@
           <div class="mb-5">
             <v-row>
               <v-col cols="5">
-                <h3 class="grey--text">Indonesia</h3>
                 <div class="d-flex flex-row">
                   <h2 class="display-3 mt-2 font-weight-bold"><i class="mdi mdi-chart-areaspline"></i></h2>
                   <div style="width : 100% !important" class="mt-2">
